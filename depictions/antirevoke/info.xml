@@ -1,24 +1,30 @@
 <package>
 	<id>com.devsios.antirevoke</id>
-	<name>Anti Revoke</name>
+	<name>AntiRevoke</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
-			<maxios>13.3</maxios>maxios>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>No extra packages, just an Jailbroken device :)</package>
+	</dependencies>
 	<descriptionlist>
-		<description> پێویست ناکات کرداری متمانە بە پرۆفایل و دوای ٧ ڕۆژ دووبارە کردارەکە دووبارە کایتەوە هەمیشەی ئەپەکانی دەرەوەی ئەپ ستۆر بەکاربێنە بەبێ وەستان </description>
+		<description> <![CDATA[پێویست ناکات کرداری متمانە بە پرۆفایل و دوای ٧ ڕۆژ دووبارە کردارەکە دووبارە کایتەوە هەمیشەی ئەپەکانی دەرەوەی ئەپ ستۆر بەکاربێنە بەبێ وەستان 
+			]]></description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<image>antirevoke.PNG</image>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links></links>
+		<links>
+		<link>
+			<name>/r/Telegram</name>
+			<url>https://t.me/devsi0s</url>
+			<iconclass>fa fa-telegram</iconclass>
+		</link>
+	</links>
 </package>
