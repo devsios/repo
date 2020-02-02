@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11</miniOS>
+			<maxios>13.3</maxios>maxios>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
