@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>10</miniOS>
+			<miniOS>11</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description> پێویست ناکات کرداری متمانە بە پرۆفایل و دوای ٧ ڕۆژ دووبارە کردارەکە دووبارە کایتەوە هەمیشەی ئەپەکانی دەرەوەی ئەپ ستۆر بەکاربێنە بەبێ وەستان </description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
