@@ -1,8 +1,8 @@
 Package: com.devsios.antirevoke
-Version: 1.0.0-1
+Version: 1.0
 Section: Tweaks
 Maintainer: Devs iOS <https://t.me/devsi0s>
-Depends: firmware (<7.0)
+Depends: mobilesubtrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.devsios.antirevoke.deb
 Size: 20762
